@@ -10,7 +10,7 @@ namespace inheritance
     {
         public void Meow()
         {
-            Console.WriteLine("A Cat can meows");
+            Console.WriteLine("A Cat can Meows");
         }
     }
 }

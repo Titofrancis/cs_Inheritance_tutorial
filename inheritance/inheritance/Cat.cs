@@ -8,5 +8,9 @@ namespace inheritance
 {
     class Cat
     {
+        public void Meow()
+        {
+            Console.WriteLine("A Cat can meows");
+        }
     }
 }
